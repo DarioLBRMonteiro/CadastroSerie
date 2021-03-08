@@ -1,4 +1,4 @@
-namespace CadastroSerie
+namespace CadastroSerie.Enumeradores
 {
     public enum Genero
     {
@@ -14,7 +14,7 @@ namespace CadastroSerie
         Musical = 10,
         Romance = 11,
         Suspense = 12,
-        Terror = 13
-
+        Terror = 13        
+        
     }
 }

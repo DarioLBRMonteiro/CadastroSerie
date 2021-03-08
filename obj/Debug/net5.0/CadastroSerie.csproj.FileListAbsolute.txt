@@ -1,0 +1,16 @@
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\obj\Debug\net5.0\CadastroSerie.csprojAssemblyReference.cache
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\obj\Debug\net5.0\CadastroSerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\obj\Debug\net5.0\CadastroSerie.AssemblyInfoInputs.cache
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\obj\Debug\net5.0\CadastroSerie.AssemblyInfo.cs
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\obj\Debug\net5.0\CadastroSerie.csproj.CoreCompileInputs.cache
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\bin\Debug\net5.0\CadastroSerie.exe
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\bin\Debug\net5.0\CadastroSerie.deps.json
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\bin\Debug\net5.0\CadastroSerie.runtimeconfig.json
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\bin\Debug\net5.0\CadastroSerie.runtimeconfig.dev.json
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\bin\Debug\net5.0\CadastroSerie.dll
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\bin\Debug\net5.0\ref\CadastroSerie.dll
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\bin\Debug\net5.0\CadastroSerie.pdb
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\obj\Debug\net5.0\CadastroSerie.dll
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\obj\Debug\net5.0\ref\CadastroSerie.dll
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\obj\Debug\net5.0\CadastroSerie.pdb
+C:\Users\dario\Documents\BootCampMRV\DotNet\CadastroSerie\obj\Debug\net5.0\CadastroSerie.genruntimeconfig.cache
